@@ -20,9 +20,9 @@ SupplyChain                     // Unity visualization of TSP and VRP
 ## Video
 
 
-<gif src="SupplyChainVideo\TSP20" width="1000">
+<gif src="SupplyChainVideo\TSP20.gif" width="1000">
 
-![替代文本]("SupplyChainVideo/TSP20")
+![替代文本]("SupplyChainVideo/TSP20.gif")
 
 
 
